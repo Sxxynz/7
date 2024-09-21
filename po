@@ -36,7 +36,7 @@ local Library = {
 		Enum.Platform.Android
 	}, UserInputService:GetPlatform()),
 	disconnected = false :: boolean,
-	can_be_optimized = true :: boolean
+	can_be_optimized = false :: boolean
 }
 
 
